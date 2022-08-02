@@ -3,12 +3,12 @@ My name is Sandra. I'm a PHP developer.
 "If you do what you love, you'll never work a day in your life." /Marc Anthony/
 
 ### Skills
--PHP
--Laravel
--MySQL
--MVC, SOLID & Design patterns(KISS, DRY, etc.)
--HTML, CSS, ANGULAR CLI basics
--TS/JS basics
+- PHP
+- Laravel
+- MySQL
+- MVC, SOLID & Design patterns(KISS, DRY, etc.)
+- HTML, CSS, ANGULAR CLI basics
+- TS/JS basics
 
 ### Contact me
 
